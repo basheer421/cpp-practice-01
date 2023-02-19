@@ -6,11 +6,14 @@
 /*   By: bammar <bammar@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/17 22:36:14 by bammar            #+#    #+#             */
-/*   Updated: 2023/02/18 00:48:55 by bammar           ###   ########.fr       */
+/*   Updated: 2023/02/19 18:00:30 by bammar           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mysed.hpp"
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
 
 static std::string text_from_file(std::string fname)
 {
