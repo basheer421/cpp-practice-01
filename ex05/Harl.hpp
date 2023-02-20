@@ -6,7 +6,7 @@
 /*   By: bammar <bammar@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/19 18:09:21 by bammar            #+#    #+#             */
-/*   Updated: 2023/02/19 18:19:36 by bammar           ###   ########.fr       */
+/*   Updated: 2023/02/21 01:01:30 by bammar           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 #include <string>
 #include <iostream>
 
+#define CMD_COUNT 4
 class Harl
 {
 private:

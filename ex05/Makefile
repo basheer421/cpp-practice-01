@@ -6,13 +6,13 @@
 #    By: bammar <bammar@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/01 01:18:44 by bammar            #+#    #+#              #
-#    Updated: 2023/02/19 19:31:02 by bammar           ###   ########.fr        #
+#    Updated: 2023/02/21 00:48:31 by bammar           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME	=	main
 
-FILES	=	main.cpp Harl.cpp Harl.hpp
+FILES	=	main.cpp Harl.cpp
 
 CC		=	c++
 
