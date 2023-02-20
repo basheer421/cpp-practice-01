@@ -6,11 +6,11 @@
 #    By: bammar <bammar@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/01 01:18:44 by bammar            #+#    #+#              #
-#    Updated: 2023/02/21 00:48:31 by bammar           ###   ########.fr        #
+#    Updated: 2023/02/21 01:05:30 by bammar           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME	=	main
+NAME	=	Harl
 
 FILES	=	main.cpp Harl.cpp
 
